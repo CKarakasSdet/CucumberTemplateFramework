@@ -1,0 +1,99 @@
+
+
+#########################
+###
+### Maven related 
+###
+#########################
+
+target/
+log/
+
+
+buildNumber.properties
+.mvn/timing.properties
+# https://github.com/takari/maven-wrapper#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
+#########################
+###
+### Eclipse related 
+###
+#########################
+.settings/
+
+.bin
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*.~.nib
+local.properties
+.loadpath
+.factorypath
+
+##############################
+## Screenshots
+##############################
+
+/Screenshots 
+
+##############################
+## testNG 
+##############################
+
+test-output.html
+/recordings
+
+
+#########################
+###
+### IntelliJ related 
+###
+#########################
+
+out/
+.idea_modules/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+
+#########################
+###
+### Mac related 
+###
+#########################
+
+.DS_Store
+.bin
+
+##############################
+###
+### Java related 
+###
+##############################
+.mtj.tmp/
+*.class
+
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+##############################
+###
+### Visual Studio Code related 
+###
+##############################
+.vscode/
+.code-workspace 
+
+
+
+
+
